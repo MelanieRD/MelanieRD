@@ -4,9 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github!;I'm+Melanie.;I'm+a+Software+student+in+DR.;I+love+learning+new+tech+<3!)](https://git.io/typing-svg)
 
 
-## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
-
 ## My Tech Stack and Tools
 
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
@@ -20,4 +17,4 @@
 
 
 ###### Some icons from: [icons8](https://icons8.com/) n.n!
-###### Credits of the Contribution Snake: [Null3000](https://github.com/null3000)
+
